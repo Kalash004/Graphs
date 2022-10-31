@@ -1,0 +1,15 @@
+M:\csharp\Middle\Graphs\Graphs\bin\Debug\net6.0\Graphs.exe
+M:\csharp\Middle\Graphs\Graphs\bin\Debug\net6.0\Graphs.deps.json
+M:\csharp\Middle\Graphs\Graphs\bin\Debug\net6.0\Graphs.runtimeconfig.json
+M:\csharp\Middle\Graphs\Graphs\bin\Debug\net6.0\Graphs.dll
+M:\csharp\Middle\Graphs\Graphs\bin\Debug\net6.0\Graphs.pdb
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.csproj.AssemblyReference.cache
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfoInputs.cache
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.AssemblyInfo.cs
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.csproj.CoreCompileInputs.cache
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.dll
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\refint\Graphs.dll
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.pdb
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\Graphs.genruntimeconfig.cache
+M:\csharp\Middle\Graphs\Graphs\obj\Debug\net6.0\ref\Graphs.dll
