@@ -16,5 +16,20 @@ namespace Graphs
             this.point2 = point2;
             this.weight = weight;
         }
+
+        public override bool Equals(object? obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override string? ToString()
+        {
+            return base.ToString();
+        }
     }
 }
